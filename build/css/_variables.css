@@ -1,0 +1,14 @@
+:root {
+  --sizes-40: 40px;
+  --sizes-60: 60px;
+  --sizes-80: 80px;
+  --sizes-plain-token: 200px;
+  --sizes-token-in-frame: 200px;
+  --sizes-token-in-group: 200px;
+  --sizes-in-variant-60: 60px;
+  --sizes-in-variant-90: 90px;
+  --sizes-in-variant-120: 120px;
+  --breakpoints-lg: 1280px;
+  --breakpoints-sm: 768px;
+  --breakpoints-md: 1024px;
+}
